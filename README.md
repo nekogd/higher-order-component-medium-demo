@@ -1,3 +1,10 @@
+## The HOC example
+
+The repository for my article https://medium.com/@tymekluczko/real-life-react-higher-order-component-use-case-withloading-ff0a4027089a
+
+
+## The CRA stuff below
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
