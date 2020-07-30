@@ -7,8 +7,8 @@ import { Loader } from "../components";
  * @param  {*} Component
  *             Component to be displayed if the loading is finished
  * 
- * @param  {*} Component
- *             Component to be displayed during Loading. Defaults to <Loader />
+ * @param  {*} LoaderComponent
+ *             LoaderComponent to be displayed during Loading. Defaults to <Loader />
  *
  * @return {*} Component to be displayed or loader component
  *

@@ -1,9 +1,12 @@
 ## The HOC example
 
-The repository for my article https://medium.com/@tymekluczko/real-life-react-higher-order-component-use-case-withloading-ff0a4027089a
+The repository for my Medium article: https://medium.com/@tymekluczko/real-life-react-higher-order-component-use-case-withloading-ff0a4027089a
 
+Live version: https://codesandbox.io/s/github/nekogd/higher-order-component-medium-demo
 
-## The CRA stuff below
+Repository: https://github.com/nekogd/higher-order-component-medium-demo
+
+## The usual CRA stuff below
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
