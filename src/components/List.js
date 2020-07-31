@@ -1,4 +1,5 @@
 import React from "react";
+import PropTypes from "prop-types";
 
 export const List = ({ data }) => {
   if (!data) return null;
@@ -10,4 +11,12 @@ export const List = ({ data }) => {
       })}
     </ul>
   );
+};
+
+List.propTypes = {
+  data: PropTypes.array,
+};
+
+List.defaultProps = {
+  data: null,
 };
